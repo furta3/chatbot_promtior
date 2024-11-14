@@ -23,7 +23,7 @@ function App() {
     setHistorial((prevHistorial) => [...prevHistorial, nuevoMensaje]);
     try {
       setCargando(true)
-      await fetch(`ec2-3-15-166-234.us-east-2.compute.amazonaws.com:5454/responder?mensaje=${inputValue}`)
+      await fetch(`api/responder?mensaje=${inputValue}`)
         .then(response => response.json())
         .then(data => {
           console.log(data);
