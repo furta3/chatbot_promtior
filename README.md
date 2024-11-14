@@ -5,7 +5,7 @@ URL:
 ## Detalle de la implementación
 
 ### Gen IA
-Al no tener acceso a la api de OpenIa porque es una subscripción, opté por otra alternativa, en este caso Ollama, el instalé y ejecuté en mi PC, con el modelo llama3.2-vision al cual le agregué como fuente de datos un archivo JSON, para que funcione con la arquitectura RAG.
+Al no tener acceso a la api de OpenIa porque es una subscripción paga, opté por otra alternativa, en este caso Ollama, lo instalé y ejecuté en mi PC, con el modelo llama3.2-vision al cual le agregué como fuente de datos un archivo JSON, para que funcione con la arquitectura RAG.
 
 ### BackEnd
 Esta desarrollado en python, con la librería langchain, cargué un archivo json con la información obtenida de la página web de promtior, está información se envía al modelo de IA de Ollama para que brinde respuestas en función de está información externa, utilicé la librería Flask para dejar disponible un endpoint de tipo get que recibe por parametros un mensaje, este mensaje se envia al modelo de IA y retorna la respues, durante esta implementación me contré con algunos problemas, ya que todo esto menos python era nuevo para mi, implementé Ollama localmente y descargue el último modelo que habían lanzado, luego para consumir este modelo y cargarlo con la información del json tuve que instalar otras dependencias que tenian incompatibildiad con la estructura que estaba montando, yo estaba usando python 3.13, y habían librerías incompatibles con esta versión, tuve que instalar python 3.10 para crear un venv en esa versión.
