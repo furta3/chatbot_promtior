@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Nuestro método para generar valor empresarial con Gen AI",
+        "description": "Integre la IA generativa en todas las operaciones para liderar la era digital. Nuestros sistemas de IA optimizan a la perfección los procesos y la toma de decisiones, mejorando las capacidades de su organización en diversas áreas.",
+        "category": "Información"
+    },
+    {
+        "id": 2,
+        "title": "Fundación",
+        "description": "Promtior fue fundada el 17 de mayo de 2023, por Emiliano, Joaquin y Nicolás",
+        "category": "Información"
+    },
+    {
+        "id": 3,
+        "title": "Eslogan",
+        "description": "Acelere su adopción de GenAI Impulsamos la eficiencia operativa en las empresas con soluciones GenAI personalizadas, desde el descubrimiento y el desarrollo hasta la implementación.",
+        "category": "Información"
+    },
+    {
+        "id": 4,
+        "title": "Optimización de procesos",
+        "description": "Acelere su adopción de GenAI Impulsamos la eficiencia operativa en las empresas con soluciones GenAI personalizadas, desde el descubrimiento y el desarrollo hasta la implementación.",
+        "category": "Servicios"
+    },
+    {
+        "id": 5,
+        "title": "Personalización avanzadas",
+        "description": "La IA ofrece experiencias altamente personalizadas al adaptar productos y servicios a preferencias y comportamientos individuales, aumentando la satisfacción del cliente y fomentando la lealtad a la marca.",
+        "category": "Servicios"
+    },
+    {
+        "id": 6,
+        "title": "Toma de decisiones mejorada",
+        "description": "La IA analiza grandes volúmenes de datos en tiempo real y proporciona información precisa. Esto permite una toma de decisiones más rápida e informada, mejorando la eficiencia y eficacia de su estrategia.",
+        "category": "Servicios"
+    },
+    {
+        "id": 7,
+        "title": "Optimización de procesos",
+        "description": "Acelere su adopción de GenAI Impulsamos la eficiencia operativa en las empresas con soluciones GenAI personalizadas, desde el descubrimiento y el desarrollo hasta la implementación.",
+        "category": "Servicios"
+    },
+    {
+        "id": 8,
+        "title": "Innovación continua",
+        "description": "La IA en sus soluciones habilita nuevas capacidades y desbloquea productos innovadores. Abre nuevas oportunidades de negocio y le mantiene competitivo en un mercado en evolución.",
+        "category": "Servicios"
+    },
+    {
+        "id": 9,
+        "title": "Soluciones a medida para clientes exigentes",
+        "description": "Ofrecemos soluciones de IA generativa personalizadas que impulsan la innovación, mejoran la eficiencia operativa y crean experiencias únicas para los clientes, potenciando el crecimiento de su negocio en la era digital.",
+        "category": "Servicios"
+    },
+    {
+        "id": 10,
+        "title": "Análisis predictivo",
+        "description": "Implemente modelos predictivos avanzados que aprovechen la IA generativa para pronosticar tendencias y comportamientos, permitiendo a los clientes tomar decisiones proactivas y optimizar sus operaciones.",
+        "category": "Servicios"
+    },
+    {
+        "id": 11,
+        "title": "Automatización inteligente",
+        "description": "Diseñe e integre sistemas de automatización inteligentes que utilicen IA generativa para mejorar la eficiencia y precisión en los procesos, reduciendo el esfuerzo manual y mejorando la productividad en diversas funciones comerciales.",
+        "category": "Servicios"
+    },
+    {
+        "id": 12,
+        "title": "Chatbots impulsados ​​por IA",
+        "description": "Desarrolle chatbots especializados impulsados ​​por IA generativa, diseñados para brindar atención, interacción y compromiso dinámicos al cliente, mejorando la experiencia del usuario y la capacidad de respuesta operativa.",
+        "category": "Servicios"
+    },
+    {
+        "id": 13,
+        "title": "Procesamiento de imágenes",
+        "description": "Ofrezca sistemas de reconocimiento visual y soluciones de procesamiento de imágenes de vanguardia que apliquen IA generativa para analizar e interpretar datos visuales, permitiendo aplicaciones de seguridad, control de calidad y más.",
+        "category": "Servicios"
+    },
+    {
+        "id": 14,
+        "title": "Acelere sus innovaciones con nuestro aumento de talento GenAI sin estrés",
+        "description": "Integre los mejores talentos con la precisión digital. Proporcionamos equipos de alto rendimiento que se integran sin esfuerzo con su equipo interno, garantizando una colaboración perfecta y sin problemas.",
+        "category": "Información"
+    },
+    {
+        "id": 15,
+        "title": "Composición del equipo",
+        "description": "Maximiza el potencial de tus soluciones con el equipo ideal. Con nuestro enfoque de Precisión Digital, usted obtiene acceso a un equipo de ingenieros que crearán soluciones sólidas y personalizadas diseñadas para satisfacer sus necesidades específicas.",
+        "category": "Equipo"
+    },
+    {
+        "id": 16,
+        "title": "Perfiles de desarrollo",
+        "description": "Senior Consultant, Data Engineer, GenAI Engineer, Automation Engineer, Team Leader",
+        "category": "Equipo"
+    }
+]
+
+
+
